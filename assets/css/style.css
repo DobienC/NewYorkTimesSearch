@@ -1,0 +1,50 @@
+header {
+    background-color: #243257;
+}
+
+header > img{
+position: relative;
+left: 30%;
+width: 600px;
+}
+
+input {
+    width: 800px;
+    margin: 12px 0px 12px 0px;
+    height: 30px;
+}
+.searchTerm {
+    font-size: 20px;
+    font-weight: bold;
+}
+#top_search {
+    width: 80px;
+    height: auto;
+    border: 3px solid black;
+}
+
+.searchGrey {
+    position: relative;
+    left: 25%;
+    background-color: white;
+    width: 1080px;
+    height: 700px;
+    margin-top: 70px;
+    padding: 8px;
+    border: 2px solid black;
+}
+
+.theTop {
+    width: 1080px;
+    position: relative;
+    left: 25%;
+    margin-top: 10px;
+}
+#clear,#search {
+    float: left;
+    width: 100px;
+}
+#clear {
+    margin-top: 3px 0px 0px 5px;
+    width: 140px;
+}
